@@ -1,0 +1,18 @@
+.top-nav{
+    display:flex;
+    background : rgb(240, 103, 12);
+    width : 90vw;
+    color : white;
+    padding-left: 30px;
+    font-family : 'maplestoryBold';
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: "maplestoryBold";
+    src: url("../public/font/MaplestoryBold.ttf");
+}
+@font-face {
+    font-family: "maplestoryLight";
+    src: url("../public/font/MaplestoryLight.ttf");
+}
